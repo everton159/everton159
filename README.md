@@ -25,3 +25,7 @@ Here are some ideas to get you started:
 ![](https://visitor-badge.laobi.icu/badge?page_id=everton159.everton159)
 [![Github](https://img.shields.io/github/followers/everton159?label=Follow&style=social)](https://github.com/everton159)
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=everton159&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=everton159&theme=tokyonight)
+
+
